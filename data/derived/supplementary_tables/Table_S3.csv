@@ -1,0 +1,44 @@
+﻿section,matrix,metric,value,interpretation
+matrix quality summary,normalized_LFC,data_rows,2948036,NA
+matrix quality summary,normalized_LFC,data_columns,6,NA
+matrix quality summary,normalized_LFC,unique_screened_models,162,NA
+matrix quality summary,normalized_LFC,unique_gene_symbols,16562,NA
+matrix quality summary,normalized_LFC,duplicate_model_gene_rows,264992,NA
+matrix quality summary,normalized_LFC,duplicate_model_gene_library_rows,0,NA
+matrix quality summary,normalized_LFC,models_with_two_libraries,16,NA
+matrix quality summary,normalized_LFC,missing_cells_total,0,NA
+matrix quality summary,normalized_LFC,minimum_value,-4.12960818625818,NA
+matrix quality summary,normalized_LFC,maximum_value,2.44225628640653,NA
+matrix quality summary,normalized_LFC,median_value,-0.04182358959117845,NA
+matrix quality summary,normalized_LFC,library_counts,"{""minLib"": 2384928, ""v1_1"": 563108}",NA
+matrix quality summary,binary_essentiality,data_rows,2948036,NA
+matrix quality summary,binary_essentiality,data_columns,6,NA
+matrix quality summary,binary_essentiality,unique_screened_models,162,NA
+matrix quality summary,binary_essentiality,unique_gene_symbols,16562,NA
+matrix quality summary,binary_essentiality,duplicate_model_gene_rows,264992,NA
+matrix quality summary,binary_essentiality,duplicate_model_gene_library_rows,0,NA
+matrix quality summary,binary_essentiality,models_with_two_libraries,16,NA
+matrix quality summary,binary_essentiality,missing_cells_total,0,NA
+matrix quality summary,binary_essentiality,minimum_value,0.0,NA
+matrix quality summary,binary_essentiality,maximum_value,1.0,NA
+matrix quality summary,binary_essentiality,median_value,0.0,NA
+matrix quality summary,binary_essentiality,library_counts,"{""minLib"": 2384928, ""v1_1"": 563108}",NA
+matrix quality summary,normalized_LFC,direction,more negative = stronger loss of fitness/dependency,confirmed by lower mean LFC in provided essential controls than non-essential controls
+matrix quality summary,normalized_LFC,control_group_mean_LFC,"{""DNA_REPLICATION"": -1.1873468678356898, ""HISTONES"": -0.13985861391385399, ""PROTEASOME"": -1.2258290421805178, ""RIBOSOMAL"": -1.1915022700276432, ""RNA_POLYMERASE"": -1.186849528515237, ""SPLICEOSOME"": -1.2454058378380541, ""curated_BAGEL_essential"": -0.8271732606447305, ""curated_BAGEL_non_essential"": -0.008442829541358355}",empirical direction check
+matrix quality summary,binary_essentiality,definition,is_depleted=1 denotes BAGEL2-called depleted/essential in that organoid; 0 denotes not depleted,"binary screen call, not effect magnitude"
+matrix quality summary,both,identifier_format,sample_ID (HCM-SANG-* or WTSI-*); gene symbol + Ensembl + HGNC; library field,join samples to S2 sample_ID; retain gene identifiers together
+cross-library and consensus summary,consensus,strong_dependency_threshold,-0.472817800889054,reproducibility summary
+cross-library and consensus summary,consensus,essential_control_median,-0.945097092904247,reproducibility summary
+cross-library and consensus summary,consensus,nonessential_control_median,-0.000538508873860893,reproducibility summary
+cross-library and consensus summary,consensus,consensus_rows,228744,reproducibility summary
+cross-library and consensus summary,consensus,consensus_models,162,reproducibility summary
+cross-library and consensus summary,consensus,dual_library_models,16,reproducibility summary
+cross-library and consensus summary,consensus,dual_library_gene_pairs,22592,reproducibility summary
+cross-library and consensus summary,consensus,dual_library_spearman,0.363225770174143,reproducibility summary
+cross-library and consensus summary,consensus,dual_library_median_absolute_LFC_difference,0.243535744757449,reproducibility summary
+cross-library and consensus summary,consensus,tier1_pathways_LT5,6,reproducibility summary
+cross-library and consensus summary,consensus,tier1_pathways_GT150,2,reproducibility summary
+cross-library and consensus summary,consensus,gene_tests,1412,reproducibility summary
+cross-library and consensus summary,consensus,pathway_tests,21,reproducibility summary
+cross-library and consensus summary,consensus,random_seed,20260901,reproducibility summary
+cross-library and consensus summary,consensus,consensus_construction,gene-wise library-adjusted LFC followed by one organoid-level consensus value per gene,dual-library models contribute one consensus value per gene

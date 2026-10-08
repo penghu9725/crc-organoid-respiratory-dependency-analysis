@@ -1,0 +1,241 @@
+﻿module,module_code,gene_symbol,evidence_level,source,notes
+Fe-S biogenesis,FeS_biogenesis,ABCB7,A,Reactome R-HSA-1362409; curated,NA
+Complex I assembly,CI_assembly,ACAD9,B,Reactome R-HSA-6799198,NA
+mtFAS,mtFAS,ACSF3,B,curated,NA
+Complex V structural,CV_structural,ATP5F1A,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5F1B,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5F1C,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5F1D,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5F1E,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5MC1,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5MC2,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5MC3,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5ME,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5MF,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5MG,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5MJ,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5MK,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5PB,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5PD,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5PF,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V structural,CV_structural,ATP5PO,A,KEGG hsa00190; Reactome R-HSA-163210,NA
+Complex V assembly,CV_assembly,ATPAF1,B,curated (HGNC-group-equivalent),NA
+Complex V assembly,CV_assembly,ATPAF2,B,curated (HGNC-group-equivalent),NA
+Complex III assembly,CIII_assembly,BCS1L,B,Reactome R-HSA-9865881,NA
+Fe-S biogenesis,FeS_biogenesis,BOLA1,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,BOLA2,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,BOLA3,A,Reactome R-HSA-1362409; curated,NA
+mtFAS,mtFAS,CBR4,B,curated,NA
+Complex IV assembly,CIV_assembly,CMC1,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,CMC2,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,CMC4,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COA3,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COA4,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COA5,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COA6,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COA7,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COA8,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COQ10A,B,Reactome R-HSA-9864848,NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ10A,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COQ10B,B,Reactome R-HSA-9864848,NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ10B,B,Reactome R-HSA-9864848,NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ2,B,curated (MitoCarta-equivalent),NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ3,B,curated (MitoCarta-equivalent),NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ4,B,curated (MitoCarta-equivalent),NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ5,B,curated (MitoCarta-equivalent),NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ6,B,curated (MitoCarta-equivalent),NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ7,B,curated (MitoCarta-equivalent),NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ8A,B,curated (MitoCarta-equivalent),NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ8B,B,curated (MitoCarta-equivalent),NA
+CoQ biosynthesis,CoQ_biosynthesis,COQ9,B,curated (MitoCarta-equivalent),NA
+Complex IV assembly,CIV_assembly,COX10,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COX11,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COX14,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COX15,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COX16,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COX17,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COX18,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COX19,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,COX20,B,Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX4I1,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX4I2,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX5A,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX5B,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX6A1,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX6A2,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX6B1,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX6B2,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX6C,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX7A1,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX7A2,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX7A2L,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX7B,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX7B2,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX7C,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX8A,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex IV structural,CIV_structural,COX8C,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex III structural,CIII_structural,CYC1,A,KEGG hsa00190; Reactome R-HSA-9865881,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,DGUOK,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex I assembly,CI_assembly,DMAC1,B,Reactome R-HSA-6799198,NA
+Complex I assembly,CI_assembly,DMAC2,B,Reactome R-HSA-6799198,NA
+Complex V assembly,CV_assembly,DMAC2L,B,curated (HGNC-group-equivalent),NA
+Complex V structural,CV_structural,DMAC2L,B,curated (HGNC-group-equivalent),NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,DNA2,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex I assembly,CI_assembly,ECSIT,B,Reactome R-HSA-6799198,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,EXOG,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Fe-S biogenesis,FeS_biogenesis,FDX1,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,FDX2,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,FDXR,A,Reactome R-HSA-1362409; curated,NA
+Complex I assembly,CI_assembly,FOXRED1,B,Reactome R-HSA-6799198,NA
+Fe-S biogenesis,FeS_biogenesis,FXN,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,GLRX2,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,GLRX5,A,Reactome R-HSA-1362409; curated,NA
+Complex IV assembly,CIV_assembly,HIGD1A,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,HIGD2A,B,Reactome R-HSA-9864848,NA
+Fe-S biogenesis,FeS_biogenesis,HSCB,A,Reactome R-HSA-1362409; curated,NA
+Complex III assembly,CIII_assembly,HSCB,A,Reactome R-HSA-1362409; curated,NA
+mtFAS,mtFAS,HSD17B8,B,curated,NA
+Fe-S biogenesis,FeS_biogenesis,HSPA9,A,Reactome R-HSA-1362409; curated,NA
+mtFAS,mtFAS,HTD2,B,curated,NA
+Fe-S biogenesis,FeS_biogenesis,IBA57,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,ISCA1,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,ISCA2,A,Reactome R-HSA-1362409; curated,CANDIDATE-GENE
+Fe-S biogenesis,FeS_biogenesis,ISCU,A,Reactome R-HSA-1362409; curated,NA
+Complex III assembly,CIII_assembly,LETM1,B,Reactome R-HSA-9865881,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,LIG3,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,LRPPRC,C,Reactome R-HSA-5368287; curated,NA
+Complex I assembly,CI_assembly,LYRM2,B,Reactome R-HSA-6799198,NA
+Fe-S biogenesis,FeS_biogenesis,LYRM4,A,Reactome R-HSA-1362409; curated,NA
+Complex III assembly,CIII_assembly,LYRM7,B,Reactome R-HSA-9865881,NA
+mtFAS,mtFAS,MCAT,B,curated,CANDIDATE-GENE
+mtFAS,mtFAS,MECR,B,curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,MGME1,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex III assembly,CIII_assembly,MNF1,B,Reactome R-HSA-9865881,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,MPV17,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex V structural,CV_structural,MT-ATP6,A,KEGG hsa00190; Reactome R-HSA-163210,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex V structural,CV_structural,MT-ATP8,A,KEGG hsa00190; Reactome R-HSA-163210,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex IV structural,CIV_structural,MT-CO1,A,KEGG hsa00190; Reactome R-HSA-9864848,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex IV structural,CIV_structural,MT-CO2,A,KEGG hsa00190; Reactome R-HSA-9864848,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex IV structural,CIV_structural,MT-CO3,A,KEGG hsa00190; Reactome R-HSA-9864848,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex III structural,CIII_structural,MT-CYB,A,KEGG hsa00190; Reactome R-HSA-9865881,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex I structural,CI_structural,MT-ND1,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex I structural,CI_structural,MT-ND2,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex I structural,CI_structural,MT-ND3,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex I structural,CI_structural,MT-ND4,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex I structural,CI_structural,MT-ND4L,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex I structural,CI_structural,MT-ND5,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex I structural,CI_structural,MT-ND6,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+Complex I structural,CI_structural,NDUFA1,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFA10,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFA11,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFA12,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFA13,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFA2,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFA3,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex IV structural,CIV_structural,NDUFA4,A,KEGG hsa00190; Reactome R-HSA-9864848,reclassified: CIV subunit (COXFA4)
+Complex IV structural,CIV_structural,NDUFA4L2,A,KEGG hsa00190; Reactome R-HSA-9864848,NA
+Complex I structural,CI_structural,NDUFA5,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFA6,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,CANDIDATE-GENE
+Complex I structural,CI_structural,NDUFA7,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFA8,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFA9,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFAB1,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,acyl carrier protein shared with mtFAS
+Complex I assembly,CI_assembly,NDUFAF1,B,Reactome R-HSA-6799198,NA
+Complex I assembly,CI_assembly,NDUFAF2,B,Reactome R-HSA-6799198,NA
+Complex I assembly,CI_assembly,NDUFAF3,B,Reactome R-HSA-6799198,NA
+Complex I assembly,CI_assembly,NDUFAF4,B,Reactome R-HSA-6799198,NA
+Complex I assembly,CI_assembly,NDUFAF5,B,Reactome R-HSA-6799198,NA
+Complex I assembly,CI_assembly,NDUFAF6,B,Reactome R-HSA-6799198,NA
+Complex I assembly,CI_assembly,NDUFAF7,B,Reactome R-HSA-6799198,NA
+Complex I assembly,CI_assembly,NDUFAF8,B,Reactome R-HSA-6799198,CANDIDATE-GENE
+Complex I structural,CI_structural,NDUFB1,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB10,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB11,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB2,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB3,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB4,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB5,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB6,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB7,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB8,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFB9,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFC1,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFC2,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFS1,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFS2,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFS3,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFS4,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFS5,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFS6,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFS7,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFS8,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFV1,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFV2,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Complex I structural,CI_structural,NDUFV3,A,KEGG hsa00190; Reactome R-HSA-6799198; HGNC group,NA
+Fe-S biogenesis,FeS_biogenesis,NFS1,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,NFU1,A,Reactome R-HSA-1362409; curated,NA
+Complex I assembly,CI_assembly,NUBPL,B,Reactome R-HSA-6799198,NA
+Fe-S biogenesis,FeS_biogenesis,NUBPL,B,Reactome R-HSA-6799198,NA
+mtFAS,mtFAS,OXSM,B,curated,NA
+CoQ biosynthesis,CoQ_biosynthesis,PDSS1,B,curated (MitoCarta-equivalent),NA
+CoQ biosynthesis,CoQ_biosynthesis,PDSS2,B,curated (MitoCarta-equivalent),NA
+Complex IV assembly,CIV_assembly,PET100,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,PET117,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,PNKD,B,Reactome R-HSA-9864848,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,POLG,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,POLG2,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,POLRMT,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex I assembly,CI_assembly,PYURF,B,Reactome R-HSA-6799198,NA
+Complex IV assembly,CIV_assembly,RAB5IF,B,Reactome R-HSA-9864848,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,RNASEH1,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,RRM2B,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex IV assembly,CIV_assembly,SCO1,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,SCO2,B,Reactome R-HSA-9864848,NA
+Complex II,CII,SDHA,A,KEGG hsa00190; Reactome R-HSA-71403,also TCA enzyme
+Complex II,CII,SDHAF1,A,KEGG hsa00190; Reactome R-HSA-71403,NA
+Complex II,CII,SDHAF2,A,KEGG hsa00190; Reactome R-HSA-71403,NA
+Complex II,CII,SDHAF3,A,KEGG hsa00190; Reactome R-HSA-71403,NA
+Complex II,CII,SDHAF4,A,KEGG hsa00190; Reactome R-HSA-71403,NA
+Complex II,CII,SDHB,A,KEGG hsa00190; Reactome R-HSA-71403,NA
+Complex II,CII,SDHC,A,KEGG hsa00190; Reactome R-HSA-71403,NA
+Complex II,CII,SDHD,A,KEGG hsa00190; Reactome R-HSA-71403,NA
+Complex I assembly,CI_assembly,SFXN4,B,Reactome R-HSA-6799198,NA
+Fe-S biogenesis,FeS_biogenesis,SLC25A28,A,Reactome R-HSA-1362409; curated,NA
+Fe-S biogenesis,FeS_biogenesis,SLC25A37,A,Reactome R-HSA-1362409; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,SLC25A4,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex IV assembly,CIV_assembly,SMIM20,B,Reactome R-HSA-9864848,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,SSBP1,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex IV assembly,CIV_assembly,SURF1,B,Reactome R-HSA-9864848,NA
+Complex IV assembly,CIV_assembly,TACO1,B,Reactome R-HSA-9864848,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,TEFM,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,TFAM,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,TFB1M,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,TFB2M,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex IV assembly,CIV_assembly,TIMM21,B,Reactome R-HSA-9864848,NA
+Complex I assembly,CI_assembly,TIMMDC1,B,Reactome R-HSA-6799198,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,TK2,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex I assembly,CI_assembly,TMEM126A,B,Reactome R-HSA-6799198,NA
+Complex I assembly,CI_assembly,TMEM126B,B,Reactome R-HSA-6799198,NA
+Complex IV assembly,CIV_assembly,TMEM177,B,Reactome R-HSA-9864848,NA
+Complex I assembly,CI_assembly,TMEM186,B,Reactome R-HSA-6799198,NA
+Complex IV assembly,CIV_assembly,TMEM223,B,Reactome R-HSA-9864848,NA
+Complex V assembly,CV_assembly,TMEM70,B,curated (HGNC-group-equivalent),NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,TOP1MT,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,TOP3A,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex III assembly,CIII_assembly,TTC19,B,Reactome R-HSA-9865881,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,TWNK,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+mtDNA maintenance/expression,mtDNA_maintenance_expression,TYMP,B,Reactome R-HSA-9913635; R-HSA-163282; curated,NA
+Complex III assembly,CIII_assembly,UQCC1,B,Reactome R-HSA-9865881,NA
+Complex III assembly,CIII_assembly,UQCC2,B,Reactome R-HSA-9865881,NA
+Complex III assembly,CIII_assembly,UQCC3,B,Reactome R-HSA-9865881,NA
+Complex III assembly,CIII_assembly,UQCC5,B,Reactome R-HSA-9865881,NA
+Complex III assembly,CIII_assembly,UQCC6,B,Reactome R-HSA-9865881,NA
+Complex III structural,CIII_structural,UQCR10,A,KEGG hsa00190; Reactome R-HSA-9865881,NA
+Complex III structural,CIII_structural,UQCR11,A,KEGG hsa00190; Reactome R-HSA-9865881,NA
+Complex III structural,CIII_structural,UQCRB,A,KEGG hsa00190; Reactome R-HSA-9865881,NA
+Complex III structural,CIII_structural,UQCRC1,A,KEGG hsa00190; Reactome R-HSA-9865881,NA
+Complex III structural,CIII_structural,UQCRC2,A,KEGG hsa00190; Reactome R-HSA-9865881,NA
+Complex III structural,CIII_structural,UQCRFS1,A,KEGG hsa00190; Reactome R-HSA-9865881,NA
+Complex III structural,CIII_structural,UQCRH,A,KEGG hsa00190; Reactome R-HSA-9865881,NA
+Complex III structural,CIII_structural,UQCRHL,A,KEGG hsa00190; Reactome R-HSA-9865881,NA
+Complex III structural,CIII_structural,UQCRQ,A,KEGG hsa00190; Reactome R-HSA-9865881,NA

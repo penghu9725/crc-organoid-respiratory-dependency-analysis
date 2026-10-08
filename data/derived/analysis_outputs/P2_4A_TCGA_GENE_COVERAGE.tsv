@@ -1,0 +1,11 @@
+dataset	module	requested_genes	detected_genes	coverage_fraction	missing_genes	criterion
+"TCGA-COAD"	"CI_structural"	37	37	1	""	"gene row present in HiSeqV2"
+"TCGA-COAD"	"CI_assembly"	21	13	0.619047619047619	"DMAC1;DMAC2;NDUFAF5;NDUFAF6;NDUFAF7;NDUFAF8;PYURF;TIMMDC1"	"gene row present in HiSeqV2"
+"TCGA-COAD"	"CIV_structural"	19	19	1	""	"gene row present in HiSeqV2"
+"TCGA-COAD"	"CIV_assembly"	34	19	0.558823529411765	"CMC2;CMC4;COA3;COA4;COA5;COA6;COA7;COA8;COX14;COX20;PET100;PET117;RAB5IF;SMIM20;TIMM21"	"gene row present in HiSeqV2"
+"TCGA-COAD"	"FeS_biogenesis"	21	19	0.904761904761905	"FDX2;IBA57"	"gene row present in HiSeqV2"
+"TCGA-READ"	"CI_structural"	37	37	1	""	"gene row present in HiSeqV2"
+"TCGA-READ"	"CI_assembly"	21	13	0.619047619047619	"DMAC1;DMAC2;NDUFAF5;NDUFAF6;NDUFAF7;NDUFAF8;PYURF;TIMMDC1"	"gene row present in HiSeqV2"
+"TCGA-READ"	"CIV_structural"	19	19	1	""	"gene row present in HiSeqV2"
+"TCGA-READ"	"CIV_assembly"	34	19	0.558823529411765	"CMC2;CMC4;COA3;COA4;COA5;COA6;COA7;COA8;COX14;COX20;PET100;PET117;RAB5IF;SMIM20;TIMM21"	"gene row present in HiSeqV2"
+"TCGA-READ"	"FeS_biogenesis"	21	19	0.904761904761905	"FDX2;IBA57"	"gene row present in HiSeqV2"

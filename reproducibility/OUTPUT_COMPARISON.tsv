@@ -1,0 +1,14 @@
+public_script	output_file	status	max_absolute_difference	max_relative_difference	notes
+organoid_vs_2d_analysis.R	P2_3A_DEPMAP_CANDIDATE_COMPARISON.tsv	EXACT	0	0	Portable public copy verified.
+organoid_vs_2d_analysis.R	P2_3A_EXTERNAL_VALIDATION_SHORTLIST.tsv	EXACT	0	0	Portable public copy verified.
+organoid_vs_2d_analysis.R	P2_3A_OXPHOS_DRIVER_GENES.tsv	EXACT	0	0	Output filename retained for compatibility.
+respiratory_submodule_biomarker_analysis.R	P2_3B_CANDIDATE_EXPRESSION_DEPENDENCY.tsv	EXACT	0	0	Portable public copy verified.
+respiratory_submodule_biomarker_analysis.R	P2_3B_CANDIDATE_GENOMIC_BIOMARKERS.tsv	EXACT	0	0	Portable public copy verified.
+respiratory_submodule_biomarker_analysis.R	P2_3B_FINAL_CANDIDATE_RANKING.tsv	EXACT	0	0	Portable public copy verified.
+respiratory_submodule_biomarker_analysis.R	P2_3B_OXPHOS_SUBMODULE_GENE_DRIVERS.tsv	EXACT	0	0	Output filename retained for compatibility.
+respiratory_submodule_biomarker_analysis.R	P2_3B_OXPHOS_SUBMODULE_RESULTS.tsv	EXACT	0	0	Portable public copy verified.
+cptac_proteogenomic_analysis.py	P2_4B_CPTAC_CLINICAL_ASSOCIATIONS.tsv	NUMERICALLY_EQUIVALENT	1.1102230246251565e-16	2.2992204195741617e-16	Floating-point last-bit variation only.
+cptac_proteogenomic_analysis.py	P2_4B_CPTAC_GENE_COVERAGE.tsv	EXACT	0	0	Portable public copy verified.
+cptac_proteogenomic_analysis.py	P2_4B_CPTAC_MODULE_SUMMARY.tsv	EXACT	0	0	Portable public copy verified.
+cptac_proteogenomic_analysis.py	P2_4B_RNA_PROTEIN_CONCORDANCE.tsv	NUMERICALLY_EQUIVALENT	1.1102230246251565e-16	2.0021000048493342e-15	Floating-point last-bit variation only.
+

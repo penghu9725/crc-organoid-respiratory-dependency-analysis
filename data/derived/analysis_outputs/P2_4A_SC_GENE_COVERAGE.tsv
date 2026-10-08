@@ -1,0 +1,6 @@
+dataset	module	requested_genes	detected_genes	coverage_fraction	missing_genes	criterion
+"GSE132465"	"CI_structural"	37	37	1	""	"gene detected with >=1 UMI in dataset"
+"GSE132465"	"CI_assembly"	21	18	0.857142857142857	"DMAC1;DMAC2;NDUFAF8"	"gene detected with >=1 UMI in dataset"
+"GSE132465"	"CIV_structural"	19	19	1	""	"gene detected with >=1 UMI in dataset"
+"GSE132465"	"CIV_assembly"	34	32	0.941176470588235	"COA8;RAB5IF"	"gene detected with >=1 UMI in dataset"
+"GSE132465"	"FeS_biogenesis"	21	20	0.952380952380952	"FDX2"	"gene detected with >=1 UMI in dataset"

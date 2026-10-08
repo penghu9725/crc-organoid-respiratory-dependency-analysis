@@ -1,0 +1,6 @@
+R 4.4.3
+data.table 1.17.8
+ggplot2 4.0.3
+scales 1.4.0
+pheatmap 1.0.13
+

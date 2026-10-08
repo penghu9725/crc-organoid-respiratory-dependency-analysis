@@ -1,0 +1,16 @@
+modality	module	requested_genes	detected_genes	coverage_fraction	missing_genes	sample_N
+RNA_tumor	CI_structural	37	37	1.0		106
+RNA_tumor	CI_assembly	21	21	1.0		106
+RNA_tumor	CIV_structural	19	19	1.0		106
+RNA_tumor	CIV_assembly	34	34	1.0		106
+RNA_tumor	FeS_biogenesis	21	21	1.0		106
+Protein_tumor	CI_structural	37	36	0.972972972972973	NDUFA7	97
+Protein_tumor	CI_assembly	21	21	1.0		97
+Protein_tumor	CIV_structural	19	13	0.6842105263157895	COX4I2;COX6A2;COX6B2;COX7B2;COX8A;COX8C	97
+Protein_tumor	CIV_assembly	34	31	0.9117647058823529	COA8;COQ10A;COX10	97
+Protein_tumor	FeS_biogenesis	21	17	0.8095238095238095	BOLA2;GLRX2;SLC25A28;SLC25A37	97
+Protein_normal	CI_structural	37	36	0.972972972972973	NDUFA7	100
+Protein_normal	CI_assembly	21	21	1.0		100
+Protein_normal	CIV_structural	19	13	0.6842105263157895	COX4I2;COX6A2;COX6B2;COX7B2;COX8A;COX8C	100
+Protein_normal	CIV_assembly	34	31	0.9117647058823529	COA8;COQ10A;COX10	100
+Protein_normal	FeS_biogenesis	21	17	0.8095238095238095	BOLA2;GLRX2;SLC25A28;SLC25A37	100

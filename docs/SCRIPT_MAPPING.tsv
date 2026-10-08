@@ -1,0 +1,5 @@
+historical_script	public_script	purpose	verification_status	original_SHA256	notes
+P2_3A_recovered.R	code/analysis/organoid_vs_2d_analysis.R	Organoid-versus-matched-2D candidate comparison and OXPHOS contributor assessment	EXACT	ba9d957d7ac7a43ec91e73d6ed9367ef2fd32069a758b814e40c33c5b3429edb	Scientific logic unchanged; machine-specific roots replaced by repository-relative defaults and environment-variable overrides.
+P2_3B_recovered.R	code/analysis/respiratory_submodule_biomarker_analysis.R	Respiratory-submodule testing and focused organoid biomarker analyses	EXACT	f27d2e02217cbdf24eecb47994752dc1012716f0628db40ce1b26883c001967b	Scientific logic unchanged; machine-specific roots replaced by repository-relative defaults and environment-variable overrides.
+P2_4B_recovered.py	code/analysis/cptac_proteogenomic_analysis.py	CPTAC paired-protein, clinical and RNA-protein analyses	NUMERICALLY_EQUIVALENT	9972b8fd5faecbdcb446601a911152d65ee63187ec5527082c4a6adf6c16d91c	Scientific logic unchanged; pathlib roots made configurable and output directories created portably.
+

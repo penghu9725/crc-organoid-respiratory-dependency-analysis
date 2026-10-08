@@ -1,0 +1,504 @@
+gene_symbol	submodule_primary	submodule_secondary	source	evidence_level	notes
+ABCB7	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+ACAD9	CI_assembly	.	Reactome R-HSA-6799198	B	
+ACAT1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+ACO2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+ACSF3	mtFAS	.	curated	B	
+AFG3L2	mito_proteostasis	.	curated	C	
+ALKBH1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+ALKBH8	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+APOO	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+APOOL	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+ATP5F1A	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5F1B	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5F1C	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5F1D	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5F1E	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5MC1	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5MC2	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5MC3	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5ME	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5MF	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5MG	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5MJ	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5MK	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5PB	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5PD	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5PF	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATP5PO	CV_structural	.	KEGG hsa00190; Reactome R-HSA-163210	A	
+ATPAF1	CV_assembly	.	curated (HGNC-group-equivalent)	B	
+ATPAF2	CV_assembly	.	curated (HGNC-group-equivalent)	B	
+AURKAIP1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+BCS1L	CIII_assembly	mito_import	Reactome R-HSA-9865881	B	
+BOLA1	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+BOLA2	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+BOLA3	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+CBR4	mtFAS	.	curated	B	
+CDK5RAP1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+CHCHD1	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+CHCHD10	mito_import	.	Reactome R-HSA-1268020	B	
+CHCHD2	mito_import	.	Reactome R-HSA-1268020	B	
+CHCHD3	mito_import	mito_membrane_organization	Reactome R-HSA-1268020	B	
+CHCHD4	mito_import	.	Reactome R-HSA-1268020	B	
+CHCHD5	mito_import	.	Reactome R-HSA-1268020	B	
+CHCHD6	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+CHCHD7	mito_import	.	Reactome R-HSA-1268020	B	
+CLPP	mito_proteostasis	.	curated	C	
+CMC1	CIV_assembly	.	Reactome R-HSA-9864848	B	
+CMC2	CIV_assembly	mito_import	Reactome R-HSA-9864848	B	
+CMC4	CIV_assembly	mito_import	Reactome R-HSA-9864848	B	
+COA3	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COA4	CIV_assembly	mito_import	Reactome R-HSA-9864848	B	
+COA5	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COA6	CIV_assembly	mito_import	Reactome R-HSA-9864848	B	
+COA7	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COA8	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COQ10A	CIV_assembly	CoQ_biosynthesis	Reactome R-HSA-9864848	B	
+COQ10B	CIV_assembly	CoQ_biosynthesis	Reactome R-HSA-9864848	B	
+COQ2	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+COQ3	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+COQ4	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+COQ5	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+COQ6	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+COQ7	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+COQ8A	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+COQ8B	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+COQ9	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+COX10	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COX11	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COX14	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COX15	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COX16	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COX17	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COX18	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COX19	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COX20	CIV_assembly	.	Reactome R-HSA-9864848	B	
+COX4I1	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX4I2	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX5A	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX5B	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX6A1	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX6A2	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX6B1	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX6B2	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX6C	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX7A1	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX7A2	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX7A2L	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX7B	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX7B2	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX7C	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX8A	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+COX8C	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+CRLS1	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+CS	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+CSKMT	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+CYC1	CIII_structural	mito_import	KEGG hsa00190; Reactome R-HSA-9865881	A	
+DAP3	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+DGUOK	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+DHX30	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+DLAT	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+DLD	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+DLST	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+DMAC1	CI_assembly	.	Reactome R-HSA-6799198	B	
+DMAC2	CI_assembly	.	Reactome R-HSA-6799198	B	
+DMAC2L	CV_assembly	CV_structural	curated (HGNC-group-equivalent)	B	
+DNA2	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+DNAJC11	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+DNAJC19	mito_import	.	Reactome R-HSA-1268020	B	
+DNM1L	mito_dynamics	.	curated	C	
+ECSIT	CI_assembly	.	Reactome R-HSA-6799198	B	
+ELAC2	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+ELP1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+ELP3	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+ERAL1	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+EXOG	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+FASTKD2	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+FASTKD5	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+FDX1	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+FDX2	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+FDXR	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+FH	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+FIS1	mito_dynamics	.	curated	C	
+FOXRED1	CI_assembly	.	Reactome R-HSA-6799198	B	
+FXN	FeS_biogenesis	CIII_assembly;TCA_respiratory;mito_import	Reactome R-HSA-1362409; curated	A	
+GADD45GIP1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+GFER	mito_import	.	Reactome R-HSA-1268020	B	
+GFM1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+GFM2	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+GLRX2	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+GLRX5	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+GRPEL1	mito_import	.	Reactome R-HSA-1268020	B	
+GRPEL2	mito_import	.	Reactome R-HSA-1268020	B	
+GRSF1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+GTPBP10	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+GTPBP3	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+GTPBP5	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+GTPBP6	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+HIGD1A	CIV_assembly	.	Reactome R-HSA-9864848	B	
+HIGD2A	CIV_assembly	.	Reactome R-HSA-9864848	B	
+HSCB	FeS_biogenesis	CIII_assembly	Reactome R-HSA-1362409; curated	A	
+HSD17B10	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+HSD17B8	mtFAS	.	curated	B	
+HSPA9	FeS_biogenesis	mito_import;CIII_assembly	Reactome R-HSA-1362409; curated	A	
+HSPD1	mito_import	.	Reactome R-HSA-1268020	B	
+HSPE1	mito_import	.	Reactome R-HSA-1268020	B	
+HTD2	mtFAS	.	curated	B	
+HTRA2	mito_proteostasis	.	curated	C	
+IBA57	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+IDH1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+IDH2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+IDH3A	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+IDH3B	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+IDH3G	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+IMMT	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+ISCA1	FeS_biogenesis	TCA_respiratory	Reactome R-HSA-1362409; curated	A	
+ISCA2	FeS_biogenesis	TCA_respiratory	Reactome R-HSA-1362409; curated	A	CANDIDATE-GENE
+ISCU	FeS_biogenesis	CIII_assembly;TCA_respiratory	Reactome R-HSA-1362409; curated	A	
+KGD4	TCA_respiratory	mito_translation	Reactome R-HSA-71403; R-HSA-70268	B	
+LETM1	CIII_assembly	.	Reactome R-HSA-9865881	B	
+LIG3	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+LONP1	mito_proteostasis	.	curated	C	
+LRPPRC	mito_translation	mtDNA_maintenance_expression	Reactome R-HSA-5368287; curated	C	
+LYRM2	CI_assembly	.	Reactome R-HSA-6799198	B	
+LYRM4	FeS_biogenesis	CIII_assembly;TCA_respiratory	Reactome R-HSA-1362409; curated	A	
+LYRM7	CIII_assembly	.	Reactome R-HSA-9865881	B	
+MALSU1	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MCAT	mtFAS	.	curated	B	CANDIDATE-GENE
+MDH1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+MDH2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+MECR	mtFAS	.	curated	B	
+METTL15	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+METTL8	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MFF	mito_dynamics	.	curated	C	
+MFN1	mito_dynamics	.	curated	C	
+MFN2	mito_dynamics	.	curated	C	
+MGME1	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+MICOS10	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+MICOS13	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+MIEF1	mito_dynamics	mito_translation	curated	C	
+MIEF2	mito_dynamics	.	curated	C	
+MNF1	CIII_assembly	.	Reactome R-HSA-9865881	B	
+MPC1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+MPC2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+MPV17	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+MRPL1	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL10	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL11	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL12	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL13	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL14	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL15	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL16	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL17	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL18	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL19	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL2	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL20	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL21	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL22	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL23	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL24	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL27	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL28	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL3	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL30	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL32	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL33	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL34	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL35	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL36	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL37	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL38	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL39	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL4	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL40	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL41	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL42	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL43	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL44	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL45	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL46	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL47	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL48	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL49	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL50	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL51	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL52	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL53	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL54	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL55	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL57	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL58	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPL9	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS10	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS11	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS12	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS14	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS15	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS16	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS17	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS18A	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS18B	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS18C	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS2	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS21	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS22	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS23	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS24	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS25	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS26	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS27	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS28	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS30	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS31	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS33	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS34	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS35	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS5	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS6	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS7	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRPS9	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+MRRF	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MSTO1	mito_dynamics	.	curated	C	
+MT-ATP6	CV_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-163210	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-ATP8	CV_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-163210	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-CO1	CIV_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-9864848	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-CO2	CIV_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-9864848	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-CO3	CIV_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-9864848	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-CYB	CIII_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-9865881	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-ND1	CI_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-ND2	CI_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-ND3	CI_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-ND4	CI_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-ND4L	CI_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-ND5	CI_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-ND6	CI_structural	mito_translation	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	mtDNA-encoded; NOT CRISPR-targetable (no sgRNA) - exclude from dependency scoring
+MT-RNR1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-RNR2	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TA	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TC	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TD	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TE	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TF	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TG	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TH	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TI	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TK	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TL1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TL2	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TM	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TN	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TP	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TQ	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TR	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TS1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TS2	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TT	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TV	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TW	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MT-TY	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTFMT	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTIF2	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTIF3	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTO1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTPAP	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTRES1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTRF1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTRF1L	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTRFR	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+MTX1	mito_import	mito_membrane_organization	Reactome R-HSA-1268020	B	
+MTX2	mito_import	mito_membrane_organization	Reactome R-HSA-1268020	B	
+NDUFA1	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA10	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA11	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA12	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA13	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA2	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA3	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA4	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	reclassified: CIV subunit (COXFA4)
+NDUFA4L2	CIV_structural	.	KEGG hsa00190; Reactome R-HSA-9864848	A	
+NDUFA5	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA6	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	CANDIDATE-GENE
+NDUFA7	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA8	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFA9	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFAB1	CI_structural	mtFAS;mito_translation	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	acyl carrier protein shared with mtFAS
+NDUFAF1	CI_assembly	.	Reactome R-HSA-6799198	B	
+NDUFAF2	CI_assembly	.	Reactome R-HSA-6799198	B	
+NDUFAF3	CI_assembly	.	Reactome R-HSA-6799198	B	
+NDUFAF4	CI_assembly	.	Reactome R-HSA-6799198	B	
+NDUFAF5	CI_assembly	.	Reactome R-HSA-6799198	B	
+NDUFAF6	CI_assembly	.	Reactome R-HSA-6799198	B	
+NDUFAF7	CI_assembly	.	Reactome R-HSA-6799198	B	
+NDUFAF8	CI_assembly	.	Reactome R-HSA-6799198	B	CANDIDATE-GENE
+NDUFB1	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB10	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB11	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB2	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB3	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB4	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB5	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB6	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB7	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB8	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFB9	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFC1	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFC2	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFS1	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFS2	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFS3	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFS4	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFS5	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFS6	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFS7	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFS8	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFV1	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFV2	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NDUFV3	CI_structural	.	KEGG hsa00190; Reactome R-HSA-6799198; HGNC group	A	
+NFS1	FeS_biogenesis	CIII_assembly;TCA_respiratory	Reactome R-HSA-1362409; curated	A	
+NFU1	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+NNT	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+NSUN3	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+NSUN4	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+NUBPL	CI_assembly	FeS_biogenesis	Reactome R-HSA-6799198	B	
+OGDH	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+OGDHL	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+OMA1	mito_proteostasis	mito_dynamics	curated	C	
+OPA1	mito_membrane_organization	mito_dynamics	Reactome R-HSA-8949613; curated	B	
+OXA1L	mito_import	mito_translation;CI_assembly;CIV_assembly	Reactome R-HSA-1268020	B	
+OXSM	mtFAS	.	curated	B	
+PAM16	mito_import	.	Reactome R-HSA-1268020	B	
+PC	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PCK2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDHA1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDHA2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDHB	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDHX	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDK1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDK2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDK3	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDK4	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDP1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDP2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+PDSS1	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+PDSS2	CoQ_biosynthesis	.	curated (MitoCarta-equivalent)	B	
+PET100	CIV_assembly	.	Reactome R-HSA-9864848	B	
+PET117	CIV_assembly	.	Reactome R-HSA-9864848	B	
+PITRM1	mito_import	mito_proteostasis	Reactome R-HSA-1268020	B	
+PMPCA	mito_import	mito_proteostasis	Reactome R-HSA-1268020	B	
+PMPCB	mito_import	mito_proteostasis	Reactome R-HSA-1268020	B	
+PNKD	CIV_assembly	.	Reactome R-HSA-9864848	B	
+PNPT1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+POLG	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+POLG2	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+POLRMT	mtDNA_maintenance_expression	mito_translation	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+PRELID1	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+PRORP	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+PTCD3	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+PUS1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+PUS7L	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+PYURF	CI_assembly	.	Reactome R-HSA-6799198	B	
+RAB5IF	CIV_assembly	.	Reactome R-HSA-9864848	B	
+RBFA	mitoribosome	.	Reactome R-HSA-5368287 (MRPL/MRPS); curated assembly factors	C	
+RNASEH1	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+ROMO1	mito_import	.	Reactome R-HSA-1268020	B	
+RPUSD3	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+RPUSD4	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+RRM2B	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+SAMM50	mito_import	mito_membrane_organization	Reactome R-HSA-1268020	B	
+SCO1	CIV_assembly	.	Reactome R-HSA-9864848	B	
+SCO2	CIV_assembly	.	Reactome R-HSA-9864848	B	
+SDHA	CII	TCA_respiratory	KEGG hsa00190; Reactome R-HSA-71403	A	also TCA enzyme
+SDHAF1	CII	.	KEGG hsa00190; Reactome R-HSA-71403	A	
+SDHAF2	CII	.	KEGG hsa00190; Reactome R-HSA-71403	A	
+SDHAF3	CII	.	KEGG hsa00190; Reactome R-HSA-71403	A	
+SDHAF4	CII	.	KEGG hsa00190; Reactome R-HSA-71403	A	
+SDHB	CII	TCA_respiratory	KEGG hsa00190; Reactome R-HSA-71403	A	
+SDHC	CII	TCA_respiratory	KEGG hsa00190; Reactome R-HSA-71403	A	
+SDHD	CII	TCA_respiratory	KEGG hsa00190; Reactome R-HSA-71403	A	
+SFXN4	CI_assembly	.	Reactome R-HSA-6799198	B	
+SIRT3	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+SLC25A1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+SLC25A28	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+SLC25A37	FeS_biogenesis	.	Reactome R-HSA-1362409; curated	A	
+SLC25A4	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+SLIRP	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+SMIM20	CIV_assembly	.	Reactome R-HSA-9864848	B	
+SPG7	mito_proteostasis	.	curated	C	
+SSBP1	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+STARD7	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+SUCLA2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+SUCLG1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+SUCLG2	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+SUPV3L1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+SURF1	CIV_assembly	.	Reactome R-HSA-9864848	B	
+TACO1	CIV_assembly	mito_translation	Reactome R-HSA-9864848	B	
+TAZ	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+TEFM	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+TFAM	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+TFB1M	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+TFB2M	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+TIMM10	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM10B	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM13	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM17A	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM17B	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM21	CIV_assembly	mito_import	Reactome R-HSA-9864848	B	
+TIMM22	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM23	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM44	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM50	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM8A	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM8B	mito_import	.	Reactome R-HSA-1268020	B	
+TIMM9	mito_import	.	Reactome R-HSA-1268020	B	
+TIMMDC1	CI_assembly	mito_import	Reactome R-HSA-6799198	B	
+TK2	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+TMEM11	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+TMEM126A	CI_assembly	.	Reactome R-HSA-6799198	B	
+TMEM126B	CI_assembly	.	Reactome R-HSA-6799198	B	
+TMEM177	CIV_assembly	.	Reactome R-HSA-9864848	B	
+TMEM186	CI_assembly	.	Reactome R-HSA-6799198	B	
+TMEM223	CIV_assembly	.	Reactome R-HSA-9864848	B	
+TMEM70	CV_assembly	.	curated (HGNC-group-equivalent)	B	
+TOMM20	mito_import	.	Reactome R-HSA-1268020	B	
+TOMM22	mito_import	.	Reactome R-HSA-1268020	B	
+TOMM34	mito_import	.	Reactome R-HSA-1268020	B	
+TOMM40	mito_import	.	Reactome R-HSA-1268020	B	
+TOMM40L	mito_import	.	Reactome R-HSA-1268020	B	
+TOMM5	mito_import	.	Reactome R-HSA-1268020	B	
+TOMM6	mito_import	.	Reactome R-HSA-1268020	B	
+TOMM7	mito_import	.	Reactome R-HSA-1268020	B	
+TOMM70	mito_import	.	Reactome R-HSA-1268020	B	
+TOP1MT	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+TOP3A	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+TRAP1	TCA_respiratory	.	Reactome R-HSA-71403; R-HSA-70268	B	
+TRIAP1	mito_membrane_organization	.	Reactome R-HSA-8949613; curated	B	
+TRMT1	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TRMT10C	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TRMT11	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TRMT2B	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TRMT44	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TRMT5	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TRMU	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TRUB2	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TSFM	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TTC19	CIII_assembly	.	Reactome R-HSA-9865881	B	
+TUFM	mito_translation	.	Reactome R-HSA-5368287; curated	C	
+TWNK	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+TYMP	mtDNA_maintenance_expression	.	Reactome R-HSA-9913635; R-HSA-163282; curated	B	
+UQCC1	CIII_assembly	.	Reactome R-HSA-9865881	B	
+UQCC2	CIII_assembly	.	Reactome R-HSA-9865881	B	
+UQCC3	CIII_assembly	.	Reactome R-HSA-9865881	B	
+UQCC5	CIII_assembly	.	Reactome R-HSA-9865881	B	
+UQCC6	CIII_assembly	.	Reactome R-HSA-9865881	B	
+UQCR10	CIII_structural	.	KEGG hsa00190; Reactome R-HSA-9865881	A	
+UQCR11	CIII_structural	.	KEGG hsa00190; Reactome R-HSA-9865881	A	
+UQCRB	CIII_structural	.	KEGG hsa00190; Reactome R-HSA-9865881	A	
+UQCRC1	CIII_structural	.	KEGG hsa00190; Reactome R-HSA-9865881	A	
+UQCRC2	CIII_structural	.	KEGG hsa00190; Reactome R-HSA-9865881	A	
+UQCRFS1	CIII_structural	.	KEGG hsa00190; Reactome R-HSA-9865881	A	
+UQCRH	CIII_structural	.	KEGG hsa00190; Reactome R-HSA-9865881	A	
+UQCRHL	CIII_structural	.	KEGG hsa00190; Reactome R-HSA-9865881	A	
+UQCRQ	CIII_structural	.	KEGG hsa00190; Reactome R-HSA-9865881	A	
+YME1L1	mito_proteostasis	mito_dynamics	curated	C	

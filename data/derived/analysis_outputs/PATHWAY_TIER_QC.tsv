@@ -1,0 +1,82 @@
+pathway_major	tier	membership_rows	unique_genes	tier1_size	tier1_size_flag
+BCAA	Tier 1	76	56	56	OK
+BCAA	Tier 2	13	13	56	OK
+BCAA	Tier 3	40	39	56	OK
+NAD	Tier 1	81	47	47	OK
+NAD	Tier 2	0	0	47	OK
+NAD	Tier 3	62	37	47	OK
+OXPHOS	Tier 1	553	299	299	GT150
+OXPHOS	Tier 2	200	200	299	GT150
+OXPHOS	Tier 3	278	223	299	GT150
+PPP	Tier 1	42	28	28	OK
+PPP	Tier 2	8	8	28	OK
+PPP	Tier 3	32	20	28	OK
+TCA	Tier 1	66	48	48	OK
+TCA	Tier 2	20	20	48	OK
+TCA	Tier 3	53	45	48	OK
+amino-acid transport	Tier 1	33	33	33	OK
+amino-acid transport	Tier 2	0	0	33	OK
+amino-acid transport	Tier 3	783	190	33	OK
+arginine	Tier 1	70	57	57	OK
+arginine	Tier 2	78	78	57	OK
+arginine	Tier 3	80	43	57	OK
+cholesterol/isoprenoid	Tier 1	142	71	71	OK
+cholesterol/isoprenoid	Tier 2	171	146	71	OK
+cholesterol/isoprenoid	Tier 3	1296	400	71	OK
+copper	Tier 1	0	0	0	LT5
+copper	Tier 2	0	0	0	LT5
+copper	Tier 3	154	67	0	LT5
+fatty-acid oxidation	Tier 1	127	68	68	OK
+fatty-acid oxidation	Tier 2	0	0	68	OK
+fatty-acid oxidation	Tier 3	194	85	68	OK
+fatty-acid synthesis	Tier 1	0	0	0	LT5
+fatty-acid synthesis	Tier 2	9	9	0	LT5
+fatty-acid synthesis	Tier 3	430	180	0	LT5
+folate	Tier 1	45	33	33	OK
+folate	Tier 2	0	0	33	OK
+folate	Tier 3	120	41	33	OK
+glucose transport	Tier 1	21	21	21	OK
+glucose transport	Tier 2	0	0	21	OK
+glucose transport	Tier 3	0	0	21	OK
+glutamine/glutamate	Tier 1	160	148	148	OK
+glutamine/glutamate	Tier 2	0	0	148	OK
+glutamine/glutamate	Tier 3	842	287	148	OK
+glycolysis	Tier 1	118	71	71	OK
+glycolysis	Tier 2	217	215	71	OK
+glycolysis	Tier 3	99	56	71	OK
+iron	Tier 1	103	103	103	OK
+iron	Tier 2	0	0	103	OK
+iron	Tier 3	273	129	103	OK
+metal transport	Tier 1	0	0	0	LT5
+metal transport	Tier 2	0	0	0	LT5
+metal transport	Tier 3	997	895	0	LT5
+methionine	Tier 1	50	36	36	OK
+methionine	Tier 2	0	0	36	OK
+methionine	Tier 3	49	28	36	OK
+riboflavin	Tier 1	23	19	19	OK
+riboflavin	Tier 2	0	0	19	OK
+riboflavin	Tier 3	11	8	19	OK
+selenium	Tier 1	0	0	0	LT5
+selenium	Tier 2	0	0	0	LT5
+selenium	Tier 3	11	11	0	LT5
+serine/glycine/one-carbon	Tier 1	91	69	69	OK
+serine/glycine/one-carbon	Tier 2	0	0	69	OK
+serine/glycine/one-carbon	Tier 3	1775	775	69	OK
+sphingolipid	Tier 1	394	161	161	GT150
+sphingolipid	Tier 2	0	0	161	GT150
+sphingolipid	Tier 3	782	201	161	GT150
+thiamine	Tier 1	0	0	0	LT5
+thiamine	Tier 2	0	0	0	LT5
+thiamine	Tier 3	20	12	0	LT5
+tryptophan	Tier 1	54	45	45	OK
+tryptophan	Tier 2	0	0	45	OK
+tryptophan	Tier 3	34	19	45	OK
+vitamin B12	Tier 1	53	22	22	OK
+vitamin B12	Tier 2	0	0	22	OK
+vitamin B12	Tier 3	19	16	22	OK
+vitamin B6	Tier 1	0	0	0	LT5
+vitamin B6	Tier 2	0	0	0	LT5
+vitamin B6	Tier 3	6	6	0	LT5
+zinc	Tier 1	30	15	15	OK
+zinc	Tier 2	0	0	15	OK
+zinc	Tier 3	174	86	15	OK

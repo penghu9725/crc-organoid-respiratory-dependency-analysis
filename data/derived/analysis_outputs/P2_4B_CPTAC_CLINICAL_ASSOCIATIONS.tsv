@@ -1,0 +1,31 @@
+modality	module	association	N	groups	effect	effect_label	raw_P	underpowered	availability	BH_FDR
+RNA	CI_structural	Stage_Spearman	105	1:12;2:42;3:44;4:7	-0.20287304918158802	spearman_rho	0.03793267937117446	False	available	0.047415849213968075
+RNA	CI_structural	Stage_Kruskal	105	1:12;2:42;3:44;4:7	0.06004967696453305	epsilon_squared	0.028438819045443358	False	available	0.03934471931517851
+RNA	CI_structural	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
+RNA	CI_assembly	Stage_Spearman	105	1:12;2:42;3:44;4:7	-0.24722399930112543	spearman_rho	0.011004194090878161	False	available	0.043165226760067475
+RNA	CI_assembly	Stage_Kruskal	105	1:12;2:42;3:44;4:7	0.06748941672304316	epsilon_squared	0.020192752676612552	False	available	0.03934471931517851
+RNA	CI_assembly	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
+RNA	CIV_structural	Stage_Spearman	105	1:12;2:42;3:44;4:7	-0.23195907055448317	spearman_rho	0.01726609070402699	False	available	0.043165226760067475
+RNA	CIV_structural	Stage_Kruskal	105	1:12;2:42;3:44;4:7	0.06880516315012337	epsilon_squared	0.019001870201527524	False	available	0.03934471931517851
+RNA	CIV_structural	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
+RNA	CIV_assembly	Stage_Spearman	105	1:12;2:42;3:44;4:7	-0.16456042260914328	spearman_rho	0.09344194419395375	False	available	0.09344194419395375
+RNA	CIV_assembly	Stage_Kruskal	105	1:12;2:42;3:44;4:7	0.04840692386527856	epsilon_squared	0.048360162977054394	False	available	0.048360162977054394
+RNA	CIV_assembly	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
+RNA	FeS_biogenesis	Stage_Spearman	105	1:12;2:42;3:44;4:7	-0.21677468912870462	spearman_rho	0.026339325631551204	False	available	0.04389887605258534
+RNA	FeS_biogenesis	Stage_Kruskal	105	1:12;2:42;3:44;4:7	0.057835520692912604	epsilon_squared	0.03147577545214281	False	available	0.03934471931517851
+RNA	FeS_biogenesis	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
+Protein	CI_structural	Stage_Spearman	97	1:10;2:39;3:40;4:8	-0.0944775563928307	spearman_rho	0.3573143960777312	False	available	0.6973651271681968
+Protein	CI_structural	Stage_Kruskal	97	1:10;2:39;3:40;4:8	0.0	epsilon_squared	0.4828693304797548	False	available	0.6035866630996934
+Protein	CI_structural	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
+Protein	CI_assembly	Stage_Spearman	97	1:10;2:39;3:40;4:8	-0.07519826919757738	spearman_rho	0.46413599507022213	False	available	0.6973651271681968
+Protein	CI_assembly	Stage_Kruskal	97	1:10;2:39;3:40;4:8	0.022047204699587902	epsilon_squared	0.16814430614093087	False	available	0.5134057475406419
+Protein	CI_assembly	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
+Protein	CIV_structural	Stage_Spearman	97	1:10;2:39;3:40;4:8	-0.05989255203616213	spearman_rho	0.5600617224598768	False	available	0.6973651271681968
+Protein	CIV_structural	Stage_Kruskal	97	1:10;2:39;3:40;4:8	0.016977088346274656	epsilon_squared	0.2053622990162568	False	available	0.5134057475406419
+Protein	CIV_structural	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
+Protein	CIV_assembly	Stage_Spearman	97	1:10;2:39;3:40;4:8	-0.08325093037635249	spearman_rho	0.417534534345292	False	available	0.6973651271681968
+Protein	CIV_assembly	Stage_Kruskal	97	1:10;2:39;3:40;4:8	0.0	epsilon_squared	0.8794902645805558	False	available	0.8794902645805558
+Protein	CIV_assembly	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
+Protein	FeS_biogenesis	Stage_Spearman	97	1:10;2:39;3:40;4:8	-0.0399873359589263	spearman_rho	0.6973651271681968	False	available	0.6973651271681968
+Protein	FeS_biogenesis	Stage_Kruskal	97	1:10;2:39;3:40;4:8	0.004035229501997364	epsilon_squared	0.3373022465949957	False	available	0.5621704109916595
+Protein	FeS_biogenesis	MSI	0		NA		NA	True	not_available_in_frozen_CPTAC_clinical_table	NA
