@@ -1,5 +1,7 @@
 # Respiratory Complex I/IV dependencies in colorectal cancer organoids
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23258833.svg)](https://doi.org/10.5281/zenodo.23258833)
+
 ## Overview
 
 This repository contains the code, retained derived data and final figures supporting a comparative analysis of metabolic CRISPR dependencies in colorectal and oesophageal cancer organoids. It resolves the broad oxidative-phosphorylation signal into prespecified respiratory submodules, compares candidate dependencies with matched 2D cell lines, and evaluates RNA and protein abundance programmes in patient datasets. Patient RNA and protein abundance is not interpreted as CRISPR dependency.
@@ -51,7 +53,7 @@ Verified dependencies are recorded under [environment/](environment/README.md). 
 
 ## Citation
 
-The manuscript citation and DOI will be added at publication. A versioned template is provided in `CITATION.cff`.
+The manuscript-associated frozen release is **v1.0.0**, archived at https://doi.org/10.5281/zenodo.23258832. The concept DOI for all repository versions is https://doi.org/10.5281/zenodo.23258833. Citation metadata for v1.0.0 is provided in `CITATION.cff`.
 
 ## License
 

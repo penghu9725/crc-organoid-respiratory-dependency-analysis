@@ -8,4 +8,6 @@ authors:
 version: 1.0.0
 date-released: 2026-10-08
 repository-code: "https://github.com/penghu9725/crc-organoid-respiratory-dependency-analysis"
+doi: "10.5281/zenodo.23258832"
+license: "MIT"
 
