@@ -4,14 +4,16 @@
 
 This repository contains the code, retained derived data and final figures supporting a comparative analysis of metabolic CRISPR dependencies in colorectal and oesophageal cancer organoids. It resolves the broad oxidative-phosphorylation signal into prespecified respiratory submodules, compares candidate dependencies with matched 2D cell lines, and evaluates RNA and protein abundance programmes in patient datasets. Patient RNA and protein abundance is not interpreted as CRISPR dependency.
 
+Repository: https://github.com/penghu9725/crc-organoid-respiratory-dependency-analysis
+
 ## Repository structure
 
-- `code/`: preprocessing, analysis and Figure 1–7 rendering scripts.
-- `data/`: retained derived results, Supplementary Tables S1–S11 and small versioned metadata.
-- `figures/final/`: unchanged publication versions of Figures 1–7 in PDF and SVG.
-- `environment/`: verified R and Python environments.
-- `docs/`: source-data, workflow, portability and script-mapping documentation.
-- `reproducibility/`: output mapping and independent numerical comparison records.
+- [`code/`](code/): preprocessing, analysis and Figure 1–7 rendering scripts.
+- [`data/`](data/): retained derived results, Supplementary Tables S1–S11 and small versioned metadata.
+- [`figures/final/`](figures/final/): unchanged publication versions of Figures 1–7 in PDF and SVG.
+- [`environment/`](environment/): verified R and Python environments.
+- [`docs/`](docs/): source-data, workflow, portability and script-mapping documentation.
+- [`reproducibility/`](reproducibility/): output mapping and independent numerical comparison records.
 
 ## Data sources
 

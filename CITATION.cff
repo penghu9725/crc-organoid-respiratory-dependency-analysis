@@ -7,9 +7,5 @@ authors:
     given-names: "Ming"
 version: 1.0.0
 date-released: 2026-10-08
-repository-code: "https://example.org/repository-placeholder"
-identifiers:
-  - type: doi
-    value: "10.XXXX/MANUSCRIPT-DOI-PLACEHOLDER"
-    description: "Associated manuscript DOI"
+repository-code: "https://github.com/penghu9725/crc-organoid-respiratory-dependency-analysis"
 
