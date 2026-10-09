@@ -8,7 +8,7 @@ Repository: https://github.com/penghu9725/crc-organoid-respiratory-dependency-an
 
 ## Repository structure
 
-- [`code/`](code/): preprocessing, analysis and Figure 1–7 rendering scripts.
+- [`code/`](code/): project analysis and Figure 1–7 rendering scripts.
 - [`data/`](data/): retained derived results, Supplementary Tables S1–S11 and small versioned metadata.
 - [`figures/final/`](figures/final/): unchanged publication versions of Figures 1–7 in PDF and SVG.
 - [`environment/`](environment/): verified R and Python environments.
@@ -17,7 +17,7 @@ Repository: https://github.com/penghu9725/crc-organoid-respiratory-dependency-an
 
 ## Data sources
 
-Source datasets include the publication-associated organoid Figshare release, SangerOrganoidBiobank code, MSigDB 2025.1.Hs, HGNC, TCGA COAD/READ, GSE132465, CPTAC-2 Colon and DepMap 24Q2. Large third-party datasets are not redistributed. See [docs/DATA_SOURCES.md](docs/DATA_SOURCES.md).
+Source datasets include the publication-associated organoid Figshare release, MSigDB 2025.1.Hs, HGNC, TCGA COAD/READ, GSE132465, CPTAC-2 Colon and DepMap 24Q2. Upstream Sanger preprocessing code is not redistributed; users should retrieve GPL-3.0 files directly from Garnett-Lab/SangerOrganoidBiobank at commit `0acbbd498f686627960deac08ee2f639af67f377`. Large third-party datasets are not redistributed. See [docs/DATA_SOURCES.md](docs/DATA_SOURCES.md).
 
 ## Analysis workflow
 
@@ -55,5 +55,5 @@ The manuscript citation and DOI will be added at publication. A versioned templa
 
 ## License
 
-Original analysis code is released under the MIT License. Third-party datasets remain governed by their original providers and are not covered by the repository code licence; see `LICENSE_NOTES.md`.
+Original project code is released under the MIT License. The retained `data/external_metadata/DepMap_24Q2_Model.csv` remains under CC BY 4.0. Upstream Sanger code remains under GPL-3.0 and is not redistributed here. Other external source datasets are not redistributed unless explicitly stated. See [`LICENSE_NOTES.md`](LICENSE_NOTES.md) and [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
 
