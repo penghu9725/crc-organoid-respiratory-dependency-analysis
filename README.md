@@ -6,7 +6,7 @@
 
 This project re-analyses published genome-scale CRISPR dependency data from patient-derived tumour organoids to examine colorectal–oesophageal (CRC–ESCA) metabolic contrasts by screening library. The library-adjusted consensus identified OXPHOS as the only metabolic pathway differing after multiple-testing correction. A biologically curated decomposition into 13 respiratory submodules was performed **post hoc**, after the pathway-level OXPHOS result; these modules were not prespecified.
 
-Five post hoc respiratory modules were CRC-leaning in the library-adjusted consensus and remained CRC-leaning in MinLib. The five-module pattern was not reproduced in Yusa v1.1: none of the module effects was significant after correction, and four of the five estimates leaned towards ESCA. The analyses therefore do not establish a stable CRC-specific respiratory dependency phenotype in this organoid resource.
+Five post hoc respiratory modules were CRC-leaning in the library-adjusted consensus and remained CRC-leaning in MinLib. The five-module pattern was not reproduced in Yusa v1.1: none of the module effects was significant after correction, and four of the five estimates leaned towards ESCA. The analyses therefore do not establish a stable CRC-specific respiratory dependency phenotype in this organoid resource. A same-line comparison across nine matched PDOs screened in distinct experiments was inconclusive; a separate 22-model DepMap subset had unresolved independence.
 
 The organoid-versus-2D comparison is descriptive and interpreted within platform; it does not establish directly comparable dependency strength across assay platforms. Patient tumour RNA and protein measurements provide molecular-abundance context, not functional dependency validation.
 
